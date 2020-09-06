@@ -59,8 +59,8 @@ module.exports = {
 
 <pre>
   {
-    <span>"email":</span> <span>"admin@email.com",</span>
-	  <span>"password":</span> <span>"123456"</span>
+    "email": "admin@email.com",
+	 "password": "123456"
   }
 </pre>
 
