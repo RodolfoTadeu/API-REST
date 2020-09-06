@@ -51,8 +51,6 @@ module.exports = {
 </pre>
 <p>As configurações começando com process.env. vem do arquivo .env.</P>
 <p>Os dados de usuário e senha dos arquivos de seed são:</p>
-<p>**Oi</p>
-
 
 
 
