@@ -1,5 +1,5 @@
 # API-REST para consumo de dados
-<p>Para subir o projeto no ar com SQLite, copie o arquivo >.env_example < para >.env< .</p>
+<p>Para subir o projeto no ar com SQLite, copie o arquivo <code>.env_example</code>  para <code>.env</code> .</p>
 <p> Você também precisará adicionar uma secret key no arquivo <code>.env</code>:</p>
 <pre><code>TOKEN_SECRET='sua_secret_key_aqui'</code></pre>
 <p>Execute os comandos abaixo:</p>
