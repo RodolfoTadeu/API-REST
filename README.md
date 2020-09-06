@@ -1,5 +1,5 @@
 # API-REST 
-<p>Esta API eu desenvolvi com base no curso que eu fiz na udemy https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/</p>
+<p>Esta API eu desenvolvi com base em um curso que eu fiz na udemy https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/</p>
 <p>Para subir o projeto no ar com SQLite, copie o arquivo <code>.env_example</code>  para <code>.env</code> .</p>
 <p> Você também precisará adicionar uma secret key no arquivo <code>.env</code>:</p>
 <pre><code>TOKEN_SECRET='sua_secret_key_aqui'</code></pre>
