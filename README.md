@@ -51,9 +51,11 @@ module.exports = {
 </pre>
 <p>As configurações começando com process.env. vem do arquivo .env.</p>
 <p>Os dados de usuário e senha dos arquivos de seed são:</p>
-* email = admin@email.com
-* senha = 123456
-<p>Você pode obter o token JWT na rota <code>/tokens</code>, passando os dados JSON</p>
+<ul>
+<li>email = <a href="mailto:admin@email.com">admin@email.com</a></li>
+<li>senha = 123456</li>
+</ul>
+<p>Você pode obter o token JWT na rota <code>/tokens</code>, passando os dados JSON:</p>
 
 
 
