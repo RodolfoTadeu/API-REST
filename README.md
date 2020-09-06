@@ -59,10 +59,16 @@ module.exports = {
 
 <pre>
   {
-    "email": "admin@email.com",
-	  "password": "123456"
+    <span>"email":</span> <span>"admin@email.com",</span>
+	  <span>"password":</span> <span>"123456"</span>
   }
 </pre>
+
+<p>Headers:</p>
+
+<code>Content-Type	application/json; charset=utf-8</code>
+
+
 
 
 
