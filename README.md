@@ -57,6 +57,13 @@ module.exports = {
 </ul>
 <p>Você pode obter o token JWT na rota <code>/tokens</code>, passando os dados JSON:</p>
 
+<pre>
+  {
+    "email": "admin@email.com",
+	  "password": "123456"
+  }
+</pre>
+
 
 
 
